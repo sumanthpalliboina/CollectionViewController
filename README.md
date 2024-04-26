@@ -18,6 +18,8 @@
 <img width="1680" alt="Screenshot 2024-04-25 at 3 05 24 PM" src="https://github.com/sumanthpalliboina/CollectionViewController/assets/85536329/2c4ff943-7656-4190-984d-25bfc324d776">
 
 <img width="1680" alt="Screenshot 2024-04-25 at 5 52 37 PM" src="https://github.com/sumanthpalliboina/CollectionViewController/assets/85536329/e0f2391a-f503-462a-9e53-88f17054a799">
+![Simulator Screenshot - iPhone 15 Plus - 2024-04-25 at 19 05 20](https://github.com/sumanthpalliboina/CollectionViewController/assets/85536329/e1187fe2-faee-4356-82b8-f8adbe8fb5d5)
+
 
 
 
